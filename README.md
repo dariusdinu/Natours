@@ -2,6 +2,7 @@
 Here is a set of images that are meant to showcase the website
 ----------------------
 ![image](https://github.com/dariusdinu/Natours/assets/75120006/cebe52d3-99a7-432b-adcd-724800085947)
+![image](https://github.com/dariusdinu/Natours/assets/75120006/a87f8736-88c4-40ba-a589-03ed74d2dc5e)
 ![image](https://github.com/dariusdinu/Natours/assets/75120006/9323a979-a23c-4254-89d8-1f13c64a1346)
 ![image](https://github.com/dariusdinu/Natours/assets/75120006/1f5e63ac-5633-4fd0-aced-817a3390547b)
 ![image](https://github.com/dariusdinu/Natours/assets/75120006/46d8f07c-5bf2-43e3-8066-119c04b055b3)
